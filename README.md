@@ -6,3 +6,4 @@
 ## Demo
 [Here is a demo of the games](https://asciinema.org/a/cAouXM1jazaJ9zn0TSqJ9n4x9)
 (https://asciinema.org/a/PRVU7XZGBQDqNtK3Yw2c1V2hl)
+(https://asciinema.org/a/vZ55otv4SlFUNk2jkds0k6qRt)
