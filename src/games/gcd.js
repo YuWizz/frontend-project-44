@@ -9,7 +9,7 @@ const gcd = (a, b) => {
       return a;
     }
     return gcd(b, a % b);
-  };
+};
 
 const generateRound = () => {
   const num1 = getRandomNumber(1, 100);
