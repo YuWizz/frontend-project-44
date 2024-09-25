@@ -1,4 +1,4 @@
-import runGame from '../index.js';
+import runGame from './index.js';
 
 const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
