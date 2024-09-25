@@ -14,7 +14,7 @@ const calculate = (num1, operator, num2) => {
     case '*':
       return num1 * num2;
     default:
-      console.log('Something is going wrong.');
+      return undefined;
   }
 };
 

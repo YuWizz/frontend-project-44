@@ -4,9 +4,9 @@ const gameDescription = 'What number is missing in the progression?';
 
 const generateProgression = (start, step, length) => {
   const progression = [];
-    for (let i = 0; i < length; i += 1) {
-      progression.push(start + step * i);
-    }
+  for (let i = 0; i < length; i += 1) {
+    progression.push(start + step * i);
+  }
   return progression;
 };
 
