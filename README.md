@@ -12,7 +12,7 @@
 ## Games Included
 
 - **Even Check**: Determine if a number is even.
-    [Here is the demo of the game](https://asciinema.org/a/cAouXM1jazaJ9zn0TSqJ9n4x9)
+    [Here is the demo of the game](https://asciinema.org/a/RyZXTceawCzvYx8YvsztHebL6)
 
 - **Calculator**: Solve basic math expressions.
     [Here is the demo of the game](https://asciinema.org/a/PRVU7XZGBQDqNtK3Yw2c1V2hl)
