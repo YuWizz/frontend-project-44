@@ -17,18 +17,18 @@ const calculate = (num1, operator, num2) => {
       console.log('Something is going wrong.');
   }
 };
-  
+
 const generateRound = () => {
   const num1 = getRandomNumber(1, 100);
   const num2 = getRandomNumber(1, 100);
   const operator = operators[getRandomNumber(0, operators.length - 1)];
-  
+
   const question = `${num1} ${operator} ${num2}`;
   const correctAnswer = String(calculate(num1, operator, num2));
-  
+
   return [question, correctAnswer];
 };
-  
+
 const runCalcGame = () => runGame(gameDescription, generateRound);
-  
+
 export default runCalcGame;

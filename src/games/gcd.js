@@ -5,10 +5,10 @@ const gameDescription = 'Find the greatest common divisor of given numbers.';
 const getRandomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const gcd = (a, b) => {
-    if (b === 0) {
-      return a;
-    }
-    return gcd(b, a % b);
+  if (b === 0) {
+    return a;
+  }
+  return gcd(b, a % b);
 };
 
 const generateRound = () => {
