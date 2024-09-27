@@ -40,7 +40,7 @@ To install and run the games locally, follow the steps below:
     git clone git@github.com:YuWizz/frontend-project-44.git
 2. Navigate to the project directory:
     ```bash
-    cd brain-games
+    cd first_project
 3. Install the necessary dependencies:
     ```bash
     npm install
