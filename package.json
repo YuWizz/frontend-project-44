@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/YuWizz/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/YuWizz/frontend-project-44/actions)",
+  "description": "Brain Games: A set of math and logic games for the terminal.",
   "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js",
@@ -27,9 +27,6 @@
     "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.30.0",
-    "eslint-plugin-jsx-a11y": "^6.10.0",
-    "eslint-plugin-react": "^7.36.0",
-    "eslint-plugin-react-hooks": "^4.6.2",
     "globals": "^15.9.0"
   }
 }

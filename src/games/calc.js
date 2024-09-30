@@ -1,4 +1,4 @@
-import runGame from '../../index.js';
+import runGame from '../index.js';
 
 const gameDescription = 'What is the result of the expression?';
 
