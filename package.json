@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Brain Games: A set of math and logic games for the terminal.",
-  "main": "index.js",
+  "main": "src/index.js",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
